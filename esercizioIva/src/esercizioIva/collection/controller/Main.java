@@ -62,13 +62,13 @@ public static void main(String[] args) {
 					}
 			  }
 		  PrintStream fileOut = new PrintStream("output.txt");
-		  
 		  ////////////////////RICERCA PRODOTTO/////////////////////////////	
 		  System.out.println(" ");
 		  System.out.println("QUALE PRODOTTO CERCHI?");
 		  /*Prendiamo una stringa in input da tastiera */
 		  Scanner scanner = new Scanner(System.in);
 		  String inputString = scanner.nextLine();
+		  scanner.close();
 		  
 		  System.setOut(fileOut);
 		  System.out.println("HAI CERCATO: " + inputString);
@@ -92,7 +92,7 @@ public static void main(String[] args) {
 		  	/*o.ordNome(listino) è quindi una nuova collezione che riscrive il listino in ordine crescente in base al nome.
 		  	 * per vedere se f quello che deve la stampo*/
 		  
-		 System.out.println(" ");
+		  System.out.println(" ");
 		  System.out.println("NOME CRESCENTE: ");
 		  oD.ordNome(listino);
 			for (Prodotto p : listino)
@@ -113,7 +113,7 @@ public static void main(String[] args) {
 		  //////////////////////////////////////////////////////////
 
 		  //////////////////////////////////////////////////////////
-		 System.out.println(" ");
+		  System.out.println(" ");
 		  System.out.println("IVA CRESCENTE: ");
 		  oD.ordIva(listino);
     	  for (Prodotto p : listino)
