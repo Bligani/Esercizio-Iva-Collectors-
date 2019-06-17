@@ -1,0 +1,370 @@
+HAI CERCATO: cia
+IL PRODOTO CHE CERCHI POTREBBE ESSERE: 
+ 
+NOME CRESCENTE: 
+abbonamenti televisivi codificati 10
+abbonamenti televisivi non codificati 4
+aceto, acqua (con riferimento a quella potabile, del rubinetto), albergo, alghe, avena 10
+agrumi 4
+animavi vivi e api, alberi (da bosco, frutto o ornamento) 10
+apparecchi ortopedici e autoveicoli per disabili 4
+bachi da seta (ad esclusione dei bozzoli), barbabietole 10
+bar (sola consumazione di prodotti non confezionati) 10
+basilico fresco, burro 4
+bergamotto 10
+birra, biscotti, bulbi 10
+boccioli 10
+cacao non zuccherato, caffè, carrube 10
+carburante per uso agricolo 10
+carne 10
+carrube 10
+crema di latte 10
+crostacei 10
+dadi 10
+dispositivi medici per ortopedia 4
+e-book 4
+edilizia -> fabbricati non di lusso e prima casa 4
+edilizia -> fabbricati non di lusso, oltre la prima casa 10
+energia elettrica per uso domestico 10
+erba per mazzi o ornamenti di fiori e piante 10
+erbe aromatiche (solo basilico, rosmarino e salvia) 4
+estratti di carne e pesce 10
+farmaci 10
+fertilizzanti 4
+fiori recisi 10
+foraggio, fieno 10
+formaggi duri e molli 4
+frattaglie 10
+frumento 4
+frumento 4
+frutta fresca con aggiunta di zucchero 10
+frutta fresca senza zucchero 4
+funghi 4
+gas per uso domestico 10
+gas per uso terapeutico 4
+grano, granoturco 4
+hotel 10
+impianti fotovoltaici ed eolici 10
+impianti sportivi 10
+insetti utili per tecniche di lotta biologica 4
+latte cagliato, conservato, zuccherato 10
+latte fresco, latticini 4
+lega da ardere 10
+limoni, legumi 10
+mais, mandorle, meloni, margarina 4
+medicine (di qualsiasi tipo, quindi anche di omeopatia) 10
+mense aziendali e scolastiche 4
+miele, marmellate, malto 10
+molluschi 10
+motoveicoli per disabili 4
+nocciole 10
+olio, olive, ortaggi freschi, orzo per zootecnica 4
+orzo da semina, ovini, panna, patate, pesce 10
+parcheggi 4
+piante aromatiche (solo basilico, rosmarino e salvia 10
+piante per piantagione o ornamento fornite da vivaisti o floricoltori 10
+pollo 10
+pomodori, prezzemolo 4
+prodotti di pasticceria 10
+prodotti dietetici, fitosanitari, omeopatici 10
+quotidiani e periodici 4
+raccolta rifiuti 10
+radici 10
+ricotta, rosmarino 4
+riso da usare in zootecnica 4
+riso per consumo umano 10
+ristoranti 10
+salvia, segala, semi di cereali (grano, mais e segala) 4
+senape, spezie, strutto 10
+sgombro 10
+strutture turistiche 10
+tabacchi 10
+tapioca, the 10
+torba 4
+torbe 10
+trasporti pubblici 10
+trifoglio 10
+tuberi 10
+uova 10
+uva da tavola 4
+uva utile per la realizzazione di vino 10
+veicoli per disabili 4
+volatili vivi, freschi, surgelati 10
+yogurt 10
+zucchero bianco e di canna 10
+ 
+NOME DECRESCENTE: 
+zucchero bianco e di canna 10
+yogurt 10
+volatili vivi, freschi, surgelati 10
+veicoli per disabili 4
+uva utile per la realizzazione di vino 10
+uva da tavola 4
+uova 10
+tuberi 10
+trifoglio 10
+trasporti pubblici 10
+torbe 10
+torba 4
+tapioca, the 10
+tabacchi 10
+strutture turistiche 10
+sgombro 10
+senape, spezie, strutto 10
+salvia, segala, semi di cereali (grano, mais e segala) 4
+ristoranti 10
+riso per consumo umano 10
+riso da usare in zootecnica 4
+ricotta, rosmarino 4
+radici 10
+raccolta rifiuti 10
+quotidiani e periodici 4
+prodotti dietetici, fitosanitari, omeopatici 10
+prodotti di pasticceria 10
+pomodori, prezzemolo 4
+pollo 10
+piante per piantagione o ornamento fornite da vivaisti o floricoltori 10
+piante aromatiche (solo basilico, rosmarino e salvia 10
+parcheggi 4
+orzo da semina, ovini, panna, patate, pesce 10
+olio, olive, ortaggi freschi, orzo per zootecnica 4
+nocciole 10
+motoveicoli per disabili 4
+molluschi 10
+miele, marmellate, malto 10
+mense aziendali e scolastiche 4
+medicine (di qualsiasi tipo, quindi anche di omeopatia) 10
+mais, mandorle, meloni, margarina 4
+limoni, legumi 10
+lega da ardere 10
+latte fresco, latticini 4
+latte cagliato, conservato, zuccherato 10
+insetti utili per tecniche di lotta biologica 4
+impianti sportivi 10
+impianti fotovoltaici ed eolici 10
+hotel 10
+grano, granoturco 4
+gas per uso terapeutico 4
+gas per uso domestico 10
+funghi 4
+frutta fresca senza zucchero 4
+frutta fresca con aggiunta di zucchero 10
+frumento 4
+frumento 4
+frattaglie 10
+formaggi duri e molli 4
+foraggio, fieno 10
+fiori recisi 10
+fertilizzanti 4
+farmaci 10
+estratti di carne e pesce 10
+erbe aromatiche (solo basilico, rosmarino e salvia) 4
+erba per mazzi o ornamenti di fiori e piante 10
+energia elettrica per uso domestico 10
+edilizia -> fabbricati non di lusso, oltre la prima casa 10
+edilizia -> fabbricati non di lusso e prima casa 4
+e-book 4
+dispositivi medici per ortopedia 4
+dadi 10
+crostacei 10
+crema di latte 10
+carrube 10
+carne 10
+carburante per uso agricolo 10
+cacao non zuccherato, caffè, carrube 10
+boccioli 10
+birra, biscotti, bulbi 10
+bergamotto 10
+basilico fresco, burro 4
+bar (sola consumazione di prodotti non confezionati) 10
+bachi da seta (ad esclusione dei bozzoli), barbabietole 10
+apparecchi ortopedici e autoveicoli per disabili 4
+animavi vivi e api, alberi (da bosco, frutto o ornamento) 10
+agrumi 4
+aceto, acqua (con riferimento a quella potabile, del rubinetto), albergo, alghe, avena 10
+abbonamenti televisivi non codificati 4
+abbonamenti televisivi codificati 10
+ 
+IVA CRESCENTE: 
+veicoli per disabili 4
+uva da tavola 4
+torba 4
+salvia, segala, semi di cereali (grano, mais e segala) 4
+riso da usare in zootecnica 4
+ricotta, rosmarino 4
+quotidiani e periodici 4
+pomodori, prezzemolo 4
+parcheggi 4
+olio, olive, ortaggi freschi, orzo per zootecnica 4
+motoveicoli per disabili 4
+mense aziendali e scolastiche 4
+mais, mandorle, meloni, margarina 4
+latte fresco, latticini 4
+insetti utili per tecniche di lotta biologica 4
+grano, granoturco 4
+gas per uso terapeutico 4
+funghi 4
+frutta fresca senza zucchero 4
+frumento 4
+frumento 4
+formaggi duri e molli 4
+fertilizzanti 4
+erbe aromatiche (solo basilico, rosmarino e salvia) 4
+edilizia -> fabbricati non di lusso e prima casa 4
+e-book 4
+dispositivi medici per ortopedia 4
+basilico fresco, burro 4
+apparecchi ortopedici e autoveicoli per disabili 4
+agrumi 4
+abbonamenti televisivi non codificati 4
+zucchero bianco e di canna 10
+yogurt 10
+volatili vivi, freschi, surgelati 10
+uva utile per la realizzazione di vino 10
+uova 10
+tuberi 10
+trifoglio 10
+trasporti pubblici 10
+torbe 10
+tapioca, the 10
+tabacchi 10
+strutture turistiche 10
+sgombro 10
+senape, spezie, strutto 10
+ristoranti 10
+riso per consumo umano 10
+radici 10
+raccolta rifiuti 10
+prodotti dietetici, fitosanitari, omeopatici 10
+prodotti di pasticceria 10
+pollo 10
+piante per piantagione o ornamento fornite da vivaisti o floricoltori 10
+piante aromatiche (solo basilico, rosmarino e salvia 10
+orzo da semina, ovini, panna, patate, pesce 10
+nocciole 10
+molluschi 10
+miele, marmellate, malto 10
+medicine (di qualsiasi tipo, quindi anche di omeopatia) 10
+limoni, legumi 10
+lega da ardere 10
+latte cagliato, conservato, zuccherato 10
+impianti sportivi 10
+impianti fotovoltaici ed eolici 10
+hotel 10
+gas per uso domestico 10
+frutta fresca con aggiunta di zucchero 10
+frattaglie 10
+foraggio, fieno 10
+fiori recisi 10
+farmaci 10
+estratti di carne e pesce 10
+erba per mazzi o ornamenti di fiori e piante 10
+energia elettrica per uso domestico 10
+edilizia -> fabbricati non di lusso, oltre la prima casa 10
+dadi 10
+crostacei 10
+crema di latte 10
+carrube 10
+carne 10
+carburante per uso agricolo 10
+cacao non zuccherato, caffè, carrube 10
+boccioli 10
+birra, biscotti, bulbi 10
+bergamotto 10
+bar (sola consumazione di prodotti non confezionati) 10
+bachi da seta (ad esclusione dei bozzoli), barbabietole 10
+animavi vivi e api, alberi (da bosco, frutto o ornamento) 10
+aceto, acqua (con riferimento a quella potabile, del rubinetto), albergo, alghe, avena 10
+abbonamenti televisivi codificati 10
+ 
+IVA DECRESCENTE: 
+zucchero bianco e di canna 10
+yogurt 10
+volatili vivi, freschi, surgelati 10
+uva utile per la realizzazione di vino 10
+uova 10
+tuberi 10
+trifoglio 10
+trasporti pubblici 10
+torbe 10
+tapioca, the 10
+tabacchi 10
+strutture turistiche 10
+sgombro 10
+senape, spezie, strutto 10
+ristoranti 10
+riso per consumo umano 10
+radici 10
+raccolta rifiuti 10
+prodotti dietetici, fitosanitari, omeopatici 10
+prodotti di pasticceria 10
+pollo 10
+piante per piantagione o ornamento fornite da vivaisti o floricoltori 10
+piante aromatiche (solo basilico, rosmarino e salvia 10
+orzo da semina, ovini, panna, patate, pesce 10
+nocciole 10
+molluschi 10
+miele, marmellate, malto 10
+medicine (di qualsiasi tipo, quindi anche di omeopatia) 10
+limoni, legumi 10
+lega da ardere 10
+latte cagliato, conservato, zuccherato 10
+impianti sportivi 10
+impianti fotovoltaici ed eolici 10
+hotel 10
+gas per uso domestico 10
+frutta fresca con aggiunta di zucchero 10
+frattaglie 10
+foraggio, fieno 10
+fiori recisi 10
+farmaci 10
+estratti di carne e pesce 10
+erba per mazzi o ornamenti di fiori e piante 10
+energia elettrica per uso domestico 10
+edilizia -> fabbricati non di lusso, oltre la prima casa 10
+dadi 10
+crostacei 10
+crema di latte 10
+carrube 10
+carne 10
+carburante per uso agricolo 10
+cacao non zuccherato, caffè, carrube 10
+boccioli 10
+birra, biscotti, bulbi 10
+bergamotto 10
+bar (sola consumazione di prodotti non confezionati) 10
+bachi da seta (ad esclusione dei bozzoli), barbabietole 10
+animavi vivi e api, alberi (da bosco, frutto o ornamento) 10
+aceto, acqua (con riferimento a quella potabile, del rubinetto), albergo, alghe, avena 10
+abbonamenti televisivi codificati 10
+veicoli per disabili 4
+uva da tavola 4
+torba 4
+salvia, segala, semi di cereali (grano, mais e segala) 4
+riso da usare in zootecnica 4
+ricotta, rosmarino 4
+quotidiani e periodici 4
+pomodori, prezzemolo 4
+parcheggi 4
+olio, olive, ortaggi freschi, orzo per zootecnica 4
+motoveicoli per disabili 4
+mense aziendali e scolastiche 4
+mais, mandorle, meloni, margarina 4
+latte fresco, latticini 4
+insetti utili per tecniche di lotta biologica 4
+grano, granoturco 4
+gas per uso terapeutico 4
+funghi 4
+frutta fresca senza zucchero 4
+frumento 4
+frumento 4
+formaggi duri e molli 4
+fertilizzanti 4
+erbe aromatiche (solo basilico, rosmarino e salvia) 4
+edilizia -> fabbricati non di lusso e prima casa 4
+e-book 4
+dispositivi medici per ortopedia 4
+basilico fresco, burro 4
+apparecchi ortopedici e autoveicoli per disabili 4
+agrumi 4
+abbonamenti televisivi non codificati 4
